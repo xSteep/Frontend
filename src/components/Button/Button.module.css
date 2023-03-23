@@ -1,0 +1,17 @@
+.button {
+    display: flex;
+    font-family: sans-serif;
+    font-size: 11pt;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+
+    background-color: black;
+    width: 10px;
+    height: 10px;
+}
+
+.button:hover {
+    background: rgb(198, 8, 8); 
+    /* rgb(147, 139, 139) */
+}

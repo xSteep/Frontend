@@ -1,0 +1,34 @@
+.ToolBar {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin: 0 20px 0 20px;
+    background-color: #fff; /* #f5ffdc */
+    box-shadow: 0px 0px 10px black;
+}
+
+.button__Add_Rectangle {
+    /* background-image: url("./img/rectangle_button.svg"); */
+    
+    margin-top: 15px;
+    width: 100px;
+    height: 48px;
+}
+
+.button__Add_Triangle {
+    /* background-image: url("../img/rectangle_button.svg"); */
+    
+    margin-top: 15px;
+    width: 100px;
+    height: 48px;
+}
+
+.button__Add_Ellipse {
+    /* background-image: url("../img/rectangle_button.svg"); */
+    
+    margin-top: 15px;
+    width: 100px;
+    height: 48px;
+}
